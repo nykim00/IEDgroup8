@@ -1,12 +1,25 @@
 ## Welcome to Group 8 webpage!!!
 
-You can use the [editor on GitHub](https://github.com/nykim00/IEDgroup8.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Charter
 
-### Markdown
+#### Goals
+Successful completion of this semester project.
+Making good grades for each other by helping them prepare for exams, etc.
+ 
+#### Rules
+Don't cut in the middle of what the other person says.
+Leave a confirmation message in the middle of the project.
+Don't speak in a strong tone when you have a different opinion from the other person.
+Take care not to talk to team members without being able to control your own emotions.
+Converse with honorifics as the project progresses.
+Be sure to turn on the camera during the Zoom conference.
+ 
+#### Resource limits
+It can only be missed once when we all decide to get together.
+As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
