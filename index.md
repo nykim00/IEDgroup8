@@ -21,6 +21,8 @@ It can only be missed once when we all decide to get together.
 As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
 
 
+[pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
+
 ```markdown
 Syntax highlighted code block
 
