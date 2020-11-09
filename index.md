@@ -2,6 +2,8 @@
 
 Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s).
 
+[pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
+
 ### Team Charter
 
 #### Goals
@@ -21,7 +23,6 @@ It can only be missed once when we all decide to get together.
 As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
 
 
-[pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
 
 ```markdown
 Syntax highlighted code block
@@ -40,14 +41,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nykim00/IEDgroup8.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
