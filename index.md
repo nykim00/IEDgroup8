@@ -49,6 +49,6 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 ## Gantt chart
 
-
+![Gantt](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EC%BA%A1%EC%B2%981.PNG?raw=true)
 
 -------------------------
