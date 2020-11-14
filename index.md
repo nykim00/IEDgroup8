@@ -47,7 +47,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 ## Objective Tree
 
-
+![OT](https://github.com/nykim00/IEDgroup8/commit/810e48a027e08eac22a4bf3edac11936489483ca#diff-14b05bc26f87c5c76988b1c1f04d60161997ab9bf9c625370e487f923580fb35)
 
 --------------------------------
 
