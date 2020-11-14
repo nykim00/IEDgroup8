@@ -1,5 +1,5 @@
 
-
+-------------------------
 
 # Welcome to Group 8 webpage!!!
 
@@ -46,3 +46,9 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 
 ------------------------------
+
+## Gant chart
+
+
+
+-------------------------
