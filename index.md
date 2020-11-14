@@ -3,6 +3,14 @@
 
 # Welcome to Group 8 webpage!!!
 
+Our team members are **21800033 권영채 21900075 김나연 21900442 연혜은 22000374 송민영**.
+
+
+
+
+
+
+
 ---------------------
 
 ## Presentation Video
@@ -14,6 +22,7 @@ Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6
 ---------------------
 
 ## Team Charter
+
 
 ### Goals
 Successful completion of this semester project.
@@ -30,6 +39,8 @@ Be sure to turn on the camera during the Zoom conference.
 ### Resource limits
 It can only be missed once when we all decide to get together.
 As four people gather, the time to meet is limited, so don't spend a maximum of 10 hours per person a week.
+
+
 
 
 -----------------------------------------------
