@@ -53,7 +53,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 ## Work Breakdown Structures
 
-![WBS](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EC%BA%A1%EC%B2%98.PNG?raw=true)
+![WBS](https://github.com/nykim00/IEDgroup8/blob/gh-pages/WBS.PNG?raw=true)
 
 
 ------------------------------
