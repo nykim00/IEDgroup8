@@ -78,5 +78,16 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Problem Statement
 <br/> 
 
-**Interruption of group face-to-face treatment**
+**Discontinuation of group face-to-face treatment**
 
+<br/> 
+<br/> 
+
+-------------------------
+
+##  Principal Functions
+<br/> 
+
++ There should be no deterioration of the disease
++ Must be able to meet the majority
++ there should be no virus propagation to external
