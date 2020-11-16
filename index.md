@@ -100,7 +100,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Limits or Boundaries
 <br/> 
 
-Constraints
+**Constraints**
  - A space must provide a distance of at least 2m each for 8 people
  
 
