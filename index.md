@@ -121,8 +121,8 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 -------------------------
 
-## Morphological charts
+## Morphological Charts
 <br/> 
 
-
+![Morphological charts](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Morphological%20charts%20.PNG?raw=true)
 
