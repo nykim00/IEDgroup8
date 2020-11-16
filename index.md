@@ -113,7 +113,16 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 <br/> 
 
 **Constraints**
+ - At least eight to a maximum of 11 people are needed for group face-to-face treatment
  - A space must provide a distance of at least 2m each for 8 people
  
+<br/> 
+<br/> 
+
+-------------------------
+
+## Morphological charts
+<br/> 
+
 
 
