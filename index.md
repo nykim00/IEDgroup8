@@ -2,6 +2,7 @@
 -------------------------
 
 # Welcome to Group 8 webpage!!!
+<br/> 
 
 Our team members are **21800033 권영채 21900075 김나연 21900442 연혜은 22000374 송민영**.
 
@@ -45,6 +46,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 -----------------------------------------------
 
 ## Objective Tree
+<br/> 
 
 ![OT](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Objective%20Tree.png?raw=true)
 
@@ -54,6 +56,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 --------------------------------
 
 ## Work Breakdown Structures
+<br/> 
 
 ![WBS](https://github.com/nykim00/IEDgroup8/blob/gh-pages/WBS.PNG?raw=true)
 
@@ -63,6 +66,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ------------------------------
 
 ## Gantt chart
+<br/> 
 
 ![Gantt](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Gantt%20Chart.PNG?raw=true)
 
