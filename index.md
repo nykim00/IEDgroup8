@@ -91,3 +91,17 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 + There should be no deterioration of the disease.
 + Must be able to meet the majority.
 + There should be no virus propagation to external.
+
+<br/> 
+<br/> 
+
+-------------------------
+
+## Limits or Boundaries
+<br/> 
+
+Constraints
+ - A space must provide a distance of at least 2m each for 8 people
+ 
+
+
