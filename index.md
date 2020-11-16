@@ -21,7 +21,7 @@ Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6
 ---------------------
 
 ## Team Charter
-
+<br/> 
 
 ### Goals
 Successful completion of this semester project.
