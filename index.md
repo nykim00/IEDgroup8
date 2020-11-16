@@ -88,6 +88,6 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ##  Principal Functions
 <br/> 
 
-+ There should be no deterioration of the disease
-+ Must be able to meet the majority
-+ there should be no virus propagation to external
++ There should be no deterioration of the disease.
++ Must be able to meet the majority.
++ There should be no virus propagation to external.
