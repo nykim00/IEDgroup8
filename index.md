@@ -100,9 +100,9 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ##  Metrics
 <br/> 
 
-- 설문조사
-  * 상태 불안 정도를 측정하기위한 STAI_X1 검사 
-  * 정신 질환자의 삶의 만족도 및 동기 증감 정도를 측정하기위한 EQ-5D-5L 검사
+**Survey**
+ * STAI_X1 test to measure state anxiety
+ * EQ-5D-5L test to measure the degree of life satisfaction and motivation for mentally ill people
   
 <br/> 
 <br/> 
