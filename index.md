@@ -14,7 +14,7 @@ Our team members are **21800033 권영채 21900075 김나연 21900442 연혜은 
 ## Presentation Video
 Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s).
 
-[pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
+Our presentation materials -> [pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
 
 <br/> 
 <br/> 
@@ -58,7 +58,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Work Breakdown Structures
 <br/> 
 
-![WBS](https://github.com/nykim00/IEDgroup8/blob/gh-pages/WBS.PNG?raw=true)
+![WBS](https://github.com/nykim00/IEDgroup8/blob/gh-pages/WBS2.PNG?raw=true)
 
 <br/> 
 <br/> 
@@ -125,4 +125,19 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 <br/> 
 
 ![Morphological charts](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Morphological%20charts%20.PNG?raw=true)
+
+<br/> 
+<br/> 
+
+-------------------------
+
+## Rough Outline (for Final Report)
+<br/> 
+
+[Rough Outline](https://github.com/nykim00/IEDgroup8/blob/gh-pages/final%20report-rough%20outline.docx?raw=true)
+
+<br/> 
+<br/> 
+
+-------------------------
 
