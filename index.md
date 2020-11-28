@@ -134,7 +134,70 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Rough Outline (for Final Report)
 <br/> 
 
-[Rough Outline](https://github.com/nykim00/IEDgroup8/blob/gh-pages/final%20report-rough%20outline.docx?raw=true)
+![Design 1](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design1.PNG?raw=true)
+ 
+**advantage**
+ - Since the space between the infected patient and the non-infected person is separated, there is little possibility that the virus will be exposed to the outside.
+
+**disadvantage**
+ - Because the counselor and the patient are in separate spaces based on windows, communication between them may not be smooth.
+ - Since patients are in independent NPU, it may be difficult to immediately prevent sudden behavior of the patient.
+<br/>
+![Design 2](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design2.PNG?raw=true)
+
+**advantage**
+ - Face-to-face treatment conducted in an outdoor area gives patients a boost to their lives during frustrating isolation.
+ - Patient protector can join the treatment process.
+
+**disadvantage**
+ - It can be affected by sudden climate change because it proceeds outside.
+ - As it is outdoors, the scope of sudden action.
+<br/>
+![Design 3](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design3.PNG?raw=true)
+ 
+**advantage**
+ - Because counselors and patients are in the same space(unit), communication is smooth.
+ - The counselor can immediately recognize the patient's condition and supplement next treatment.
+
+**disadvantage**
+ - Because the counselor has to wear protective clothing, she is less active and puts a strain on her body.
+ - Sudden behavior among patients can occur because patients meet face to face. 
+ - Since it is a virus prevention that consists only of acrylic plates and masks in NPU, there is a high risk of spreading the virus to counselors. 
+<br/> 
+![Design 4](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design4.PNG?raw=true)
+
+**advantage**
+ - Since the space between the infected patient and the non-infected person is separated, there is little possibility that the virus will be exposed to the outside.
+ - Patients are less likely to spread another disease because they have private units.
+ - Because each patient has an independent space, it can prevent injury to other patients due to sudden behavior of mental patients. 
+ - The treatment room is designed in a circular shape, allowing patients to see each other's appearance completely, and counselors can better check the patient's condition by looking at all the patients as a whole.
+
+**disadvantage**
+ - Because there are many spaces that are abandoned in design, efficiency is low.
+<br/> 
+![Design 5](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design5.PNG?raw=true)
+
+**advantage**
+ - The treatment room is designed in a circular shape, allowing patients to see each other's appearance completely, and counselors can better check the patient's condition by looking at all the patients as a whole.
+ - During treatment, the homogeneity among patients can be improved as patients stay close to each other.
+
+**disadvantage**
+ - There is a high possibility of transmission of the virus between patients and between patients and counselors because the movements are bound to overlap.
+ - It is difficult to recognize each other's facial expressions between the counseling parties.
+ - In some cases, the counselor turns against the patient.
+<br/> 
+![Design 6](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design6.PNG?raw=true)
+
+**advantage**
+ - Counselors are less likely to be exposed to the infectious virus.
+ - Space utilization is high for group face-to-face treatment in hospitals.
+ - Because each patient has an independent space, it can prevent injury to other patients due to sudden behavior of mental patients. 
+ - Patients are less likely to spread another disease because they have private units.
+
+
+**disadvantage**
+ - Patients may not be able to hear well from counselors and other patients because they conduct group face-to-face counseling in a closed single unit.
+ - There may be sound problems or equipment damage.
 
 <br/> 
 <br/> 
@@ -143,7 +206,6 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 ## Design Alternatives
 <br/> 
-
 
 
 <br/> 
@@ -174,3 +236,5 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 <br/> 
 
 -------------------------
+
+
