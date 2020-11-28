@@ -143,6 +143,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
  - Because the counselor and the patient are in separate spaces based on windows, communication between them may not be smooth.
  - Since patients are in independent NPU, it may be difficult to immediately prevent sudden behavior of the patient.
 <br/>
+
 ![Design 2](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design2.PNG?raw=true)
 
 **advantage**
@@ -153,6 +154,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
  - It can be affected by sudden climate change because it proceeds outside.
  - As it is outdoors, the scope of sudden action.
 <br/>
+
 ![Design 3](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design3.PNG?raw=true)
  
 **advantage**
@@ -164,6 +166,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
  - Sudden behavior among patients can occur because patients meet face to face. 
  - Since it is a virus prevention that consists only of acrylic plates and masks in NPU, there is a high risk of spreading the virus to counselors. 
 <br/> 
+
 ![Design 4](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design4.PNG?raw=true)
 
 **advantage**
@@ -175,6 +178,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 **disadvantage**
  - Because there are many spaces that are abandoned in design, efficiency is low.
 <br/> 
+
 ![Design 5](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design5.PNG?raw=true)
 
 **advantage**
@@ -186,6 +190,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
  - It is difficult to recognize each other's facial expressions between the counseling parties.
  - In some cases, the counselor turns against the patient.
 <br/> 
+
 ![Design 6](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design6.PNG?raw=true)
 
 **advantage**
