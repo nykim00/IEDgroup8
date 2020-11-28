@@ -141,3 +141,36 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 -------------------------
 
+## Design Alternatives
+<br/> 
+
+
+
+<br/> 
+<br/> 
+
+-------------------------
+
+## Design Description and Specifications
+<br/> 
+
+1. Arrangement of a digeut-shaped corridor, a digeut-shaped hospital room of a 3-2-3 formation and the space between them is the counselor's space
+2. The door from each hospital room toward the corridor and each hospital room facing the counselor's space
+3. Install Window-sized glass in the area facing the next hospital room.
+4. On the wall facing the counselor's space, full glass  is installed with above the adult waist level.
+5. Install blackout curtains on the glass facing the counselor's space in each hospital room.
+6. Install microphone on the wall and built-in speaker on the ceiling
+7. Counselor's space connected with NS
+
+<br/> 
+<br/> 
+
+-------------------------
+
+## Rough Outline (for Final Report)
+<br/> 
+
+<br/> 
+<br/> 
+
+-------------------------
