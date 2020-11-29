@@ -134,6 +134,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Rough Outline (for Final Report)
 <br/> 
 
+[Download Rough outline.](https://github.com/nykim00/IEDgroup8/blob/gh-pages/final%20report-rough%20outline.docx?raw=true)
 
 <br/> 
 <br/> 
