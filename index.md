@@ -134,6 +134,15 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Rough Outline (for Final Report)
 <br/> 
 
+
+<br/> 
+<br/> 
+
+-------------------------
+
+## Design Alternatives
+<br/> 
+
 ![Design 1](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design1.PNG?raw=true)
  
 **advantage**
@@ -203,15 +212,6 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 **disadvantage**
  - Patients may not be able to hear well from counselors and other patients because they conduct group face-to-face counseling in a closed single unit.
  - There may be sound problems or equipment damage.
-
-<br/> 
-<br/> 
-
--------------------------
-
-## Design Alternatives
-<br/> 
-
 
 <br/> 
 <br/> 
