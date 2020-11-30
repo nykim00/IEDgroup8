@@ -111,6 +111,10 @@ _**"Discontinuation of group face-to-face treatment"**_
 
 ## Limits or Boundaries
 <br/> 
+**Objectives**
+ - Everyone should be safe from viruses.
+ - The effect of counseling treatment should be on patients.
+ - As a group it should be efficient in your time and money.
 
 **Constraints**
  - At least eight to a maximum of 11 people are needed for group face-to-face treatment
