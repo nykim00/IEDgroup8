@@ -157,6 +157,7 @@ _**"Discontinuation of group face-to-face treatment"**_
  - Because the counselor and the patient are in separate spaces based on windows, communication between them may not be smooth.
  - Since patients are in independent NPU, it may be difficult to immediately prevent sudden behavior of the patient.
 <br/>
+<br/> 
 
 ![Design 2](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design2.PNG?raw=true)
 
@@ -168,6 +169,7 @@ _**"Discontinuation of group face-to-face treatment"**_
  - It can be affected by sudden climate change because it proceeds outside.
  - As it is outdoors, the scope of sudden action.
 <br/>
+<br/> 
 
 ![Design 3](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design3.PNG?raw=true)
  
@@ -192,6 +194,7 @@ _**"Discontinuation of group face-to-face treatment"**_
 **disadvantage**
  - Because there are many spaces that are abandoned in design, efficiency is low.
 <br/> 
+<br/> 
 
 ![Design 5](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design5.PNG?raw=true)
 
@@ -203,6 +206,7 @@ _**"Discontinuation of group face-to-face treatment"**_
  - There is a high possibility of transmission of the virus between patients and between patients and counselors because the movements are bound to overlap.
  - It is difficult to recognize each other's facial expressions between the counseling parties.
  - In some cases, the counselor turns against the patient.
+<br/> 
 <br/> 
 
 ![Design 6](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Design6.PNG?raw=true)
@@ -218,6 +222,7 @@ _**"Discontinuation of group face-to-face treatment"**_
  - Patients may not be able to hear well from counselors and other patients because they conduct group face-to-face counseling in a closed single unit.
  - There may be sound problems or equipment damage.
 
+<br/> 
 <br/> 
 <br/> 
 
