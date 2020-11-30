@@ -226,6 +226,7 @@ _**"Discontinuation of group face-to-face treatment"**_
 ## Design Description and Specifications
 <br/> 
 ![Choosen Design](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Choosen%20Design.PNG?raw=true)
+
 This is our final design.
 
 1. There are a digeut(ㄷ)-shaped corridor and a digeut(ㄷ)-shaped hospital room of a 3-2-3 formation and the space between them is the counselor's space.
