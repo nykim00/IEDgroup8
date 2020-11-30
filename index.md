@@ -235,9 +235,9 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 
 -------------------------
 
-## Rough Outline (for Final Report)
+## Proof of Concept
 <br/> 
-
+Experiment with how far people feel when people meet online or behind glass walls at a certain distance.
 <br/> 
 <br/> 
 
