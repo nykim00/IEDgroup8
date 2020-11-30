@@ -78,7 +78,7 @@ As four people gather, the time to meet is limited, so don't spend a maximum of 
 ## Problem Statement
 <br/> 
 
-**Discontinuation of group face-to-face treatment**
+_**"Discontinuation of group face-to-face treatment"**_
 
 <br/> 
 <br/> 
