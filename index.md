@@ -225,6 +225,7 @@ _**"Discontinuation of group face-to-face treatment"**_
 
 ## Design Description and Specifications
 <br/> 
+
 ![Choosen Design](https://github.com/nykim00/IEDgroup8/blob/gh-pages/Choosen%20Design.PNG?raw=true)
 
 This is our final design.
@@ -244,7 +245,9 @@ This is our final design.
 
 ## Proof of Concept
 <br/> 
+
 Experiment with how far people feel when people meet online or behind glass walls at a certain distance.
+
 <br/> 
 <br/> 
 
