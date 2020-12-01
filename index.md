@@ -111,6 +111,7 @@ _**"Discontinuation of group face-to-face treatment"**_
 
 ## Limits or Boundaries
 <br/> 
+
 **Objectives**
  - Everyone should be safe from viruses.
  - The effect of counseling treatment should be on patients.
