@@ -4,7 +4,8 @@
 # Welcome to Group 8 webpage!!!
 <br/> 
 
-Our team members are **21800033 권영채 21900075 김나연 21900442 연혜은 22000374 송민영**.
+### We are "8PU(people unit)"~  
+**21800033 권영채 21900075 김나연 21900442 연혜은 22000374 송민영**.
 
 <br/> 
 <br/> 
