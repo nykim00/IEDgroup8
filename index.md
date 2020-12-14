@@ -13,7 +13,7 @@
 ---------------------
 
 ## Presentation Video
-Here is our [presentation video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s).
+Here is our [Presentation Video](https://www.youtube.com/watch?v=J2z2Bi3SGRs&t=6010s).
 
 Our presentation materials -> [pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/%EA%B3%B5%EC%84%A4%EC%9E%85%208%EC%A1%B0%20npu%EB%B0%9C%ED%91%9C%20.pdf)
 
@@ -260,4 +260,12 @@ Experiment with how far people feel when people meet online or behind glass wall
 
 -------------------------
 
+## Presentation Video
+Here is our [Final Presentation Video](https://www.youtube.com/watch?v=MniBu0q_KgM&feature=youtu.be).
 
+Our final presentation materials -> [pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/IED(01)%20Final%20ppt_group%208%20.pdf)
+
+<br/> 
+<br/> 
+
+---------------------
