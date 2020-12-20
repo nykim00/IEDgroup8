@@ -265,6 +265,10 @@ Here is our [Final Presentation Video](https://www.youtube.com/watch?v=MniBu0q_K
 
 Our final presentation materials -> [pdf](https://github.com/nykim00/IEDgroup8/blob/gh-pages/IED(01)%20Final%20ppt_group%208%20.pdf)
 
+Our final report title : Design of Negative Pressure Unit for Mental Patients with Group Face-to-face Therapy
+
+Our representative design 
+[representative design]()
 <br/> 
 <br/> 
 
