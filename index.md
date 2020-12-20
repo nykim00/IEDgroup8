@@ -268,6 +268,7 @@ Our final presentation materials -> [pdf](https://github.com/nykim00/IEDgroup8/b
 Our final report title : Design of Negative Pressure Unit for Mental Patients with Group Face-to-face Therapy
 
 Our representative design 
+
 ![representative design](https://github.com/nykim00/IEDgroup8/blob/gh-pages/representive%20design.PNG?raw=true)
 <br/> 
 <br/> 
